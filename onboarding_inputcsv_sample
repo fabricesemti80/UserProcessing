@@ -1,0 +1,3 @@
+﻿Domain,FirstName,LastName,CopyAccount,Manager,JobTitle,EmployeeID,ContractType,HolidayEntitlement,StartDate,EndDate
+<domain 1>,Theon,Greyjoy,<template user 1>,<manager 1>,<Master of Coin>,ABC121,<optional>,<optional>,<optional>,<optional>
+<domain 2>,Sansa,Stark,<template user 2>,<manager 2>,<Hand of the King>,123BCD1,<optional>,<optional>,<optional>,<optional>

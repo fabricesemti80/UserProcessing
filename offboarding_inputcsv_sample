@@ -1,0 +1,3 @@
+﻿Domain,FirstName,LastName,ForwardingAddress,EmployeeID
+<domain 1>,Bart,Simpson,<optional email address>,ABC121
+<domain 2>,Homer,Simpson,<optional email address>,123BCD
